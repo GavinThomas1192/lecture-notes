@@ -1,0 +1,23 @@
+{
+  "name": "lecture-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class-01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinThomas1192/lecture-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinThomas1192/lecture-notes/issues"
+  },
+  "homepage": "https://github.com/GavinThomas1192/lecture-notes#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
